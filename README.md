@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akinrinmola Precious</h1>
-<h3 align="center">I'm a product designer on a mission to make the digital world a more delightful, user-friendly place. I love crafting designs that not only look great but also feel amazing to use! From brainstorming bold ideas to pixel-perfect execution, I’m all about blending creativity with problem-solving. When I’m not designing, you’ll probably find me learning new tools, geeking out over UX trends, or sipping way too much coffee. Let’s build something awesome together!</h3>
+<h3 align="center">I'm a product designer ready to take you from idea to execution</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mildpxl&label=Profile%20views&color=0e75b6&style=flat" alt="mildpxl" /> </p>
 
